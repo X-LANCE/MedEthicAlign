@@ -1,0 +1,17 @@
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+
+# Python cache/runtime artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Local/generated working files
+data/checkpoint/
+*.log
+
+# Archives generated for manual upload
+*.zip
